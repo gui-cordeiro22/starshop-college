@@ -2,7 +2,7 @@
 
 - Desenvolvimento de uma página de E-comemrce para uma loja fictícia de roupas como projeto da faculdade.
 
-## :tools: Principais Tecnologias
+## :hammer_and_wrench: Principais Tecnologias
 
 - **HTML5**: Linguagem de marcação para construção de UI (Interfaces de Usuário).
 - **CSS3**: Linguagem de estilização em cascata que permite personalizar elementos HTML.
@@ -22,7 +22,7 @@
 
 - **Live Server**: Extensão do VsCode (IDE de desenvolvimento da página) para visualização da mesma no browser.
 
-## :desktop: Veja a aplicação
+## :computer: Veja a aplicação
 
 1. Acesse a aplicação:
 
