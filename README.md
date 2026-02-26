@@ -1,33 +1,53 @@
-# :shopping: StarShop - Ecommerce
+# 🛍️ StarShop - Ecommerce
 
-- Desenvolvimento de uma página de E-comemrce para uma loja fictícia de roupas como projeto da faculdade.
+![Status](https://img.shields.io/badge/Status-em%20andamento-yellow)
+![Projeto Acadêmico](https://img.shields.io/badge/Projeto-acadêmico-blue)
+![Versao](https://img.shields.io/badge/Versão-0.0.0-blue)
 
-## :hammer_and_wrench: Principais Tecnologias
+Desenvolvimento de uma página de E-commerce para uma loja fictícia de roupas como projeto da faculdade.
 
-- **HTML5**: Linguagem de marcação para construção de UI (Interfaces de Usuário).
-- **CSS3**: Linguagem de estilização em cascata que permite personalizar elementos HTML.
-- **Bootstrap**: Framework de CSS para estilização e layouts responsivos.
-- **JavaScript**: Linguagem de programação responsável por deixar a UI (Interface de Usuário) dinâmica.
-- **PHP**: Linguagem de programação responsável por fazer comunicação e integração com o banco de dados.
-- **MySQL**: Banco de dados escolhido para armazenar todos os dados da aplicação.
+<br>
 
-## :open_file_folder: Estrutura do Projeto
+## 🚀 Tecnologias Utilizadas
 
-- **css**: Contém as folhas de estilo responsáveis pela estilização de todo conteúdo da aplicação.
-- **fonts**: Contém arquivos de fontes para suporte da aplicação.
-- **imgs**: Contém todas as imagens de todas as seções do projeto.
-- **js**: Contém todos os scripts JavaScript responsáveis pelo dinamismo da aplicação.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## :gear: Requisitos
+<br>
 
-- **Live Server**: Extensão do VsCode (IDE de desenvolvimento da página) para visualização da mesma no browser.
+## 📂 Estrutura do Projeto
 
-## :computer: Veja a aplicação
+```zsh
+📦 StarShop
+ ┣ 📂 css - Contém as folhas de estilo responsáveis pela estilização de todo conteúdo da aplicação.
+ ┣ 📂 fonts - Contém arquivos de fontes para suporte da aplicação.
+ ┣ 📂 imgs - Contém todas as imagens de todas as seções do projeto.
+ ┗ 📂 js - Contém todos os scripts JavaScript responsáveis pelo dinamismo da aplicação.
+```
 
-1. Acesse a aplicação:
+<br>
 
-- Abra http://localhost:5500 no navegador.
+## ⚙️ Requisitos
+
+- VSCode
+- Extensão **Live Server**
+
+<br>
+
+## 💻 Como Executar o Projeto
+
+1. Clone o repositório: `git clone https://github.com/seu-usuario/starshop.git`
+
+2. Abra o projeto no VSCode.
+3. Execute com o **Live Server**.
+4. E acesse diretamente: http://localhost:5500
 
 ---
 
-Desenvolvido com :heart: pela equipe de tecnologia **StarShop**.
+<br>
+
+Desenvolvido com ❤️ pela equipe de tecnologia **StarShop**
