@@ -22,7 +22,7 @@
 
 - **Live Server**: Extensão do VsCode (IDE de desenvolvimento da página) para visualização da mesma no browser.
 
-## :computer : Veja a aplicação
+## :computer: Veja a aplicação
 
 1. Acesse a aplicação:
 
