@@ -5,14 +5,12 @@ html {
 body {
   color: #333333;
   font-family: "Lucida Sans Unicode", "Lucide Grande", sans-serif;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   width: 940px;
 }
 
 h1 {
-  background-image: url("../img/sobre-background.jpg");
-  padding: 10px;
+  margin: 0;
 }
 
 h2 {
@@ -42,6 +40,11 @@ figure {
 
 figcaption {
   font-style: italic;
+}
+
+#titulo {
+  background-image: url("../img/sobre-background.jpg");
+  padding: 10px;
 }
 
 #centro-distribuicao {
